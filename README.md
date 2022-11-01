@@ -1,1 +1,7 @@
-# pbinfo
+# probleme
+  rezolvate
+  de
+  pe 
+  pbinfo 
+#
+
