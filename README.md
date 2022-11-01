@@ -1,4 +1,5 @@
-# probleme
+# PBINFO
+  probleme
   rezolvate
   de
   pe 
